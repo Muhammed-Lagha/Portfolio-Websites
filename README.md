@@ -1,26 +1,3 @@
-# Vue 3 Starter
-
-> 🖖 A Better Vue 3 Starter Template，generate by [vuejs/create-vue](https://github.com/vuejs/create-vue).
-
-## Preview
-
-<div>
-  <a href="https://stackblitz.com/github/xiaoluoboding/vue3-starter" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/bf5c9492905b6d3b558552de2c848c7cce2e0a0f0ff922967115543de9441522/68747470733a2f2f646576656c6f7065722e737461636b626c69747a2e636f6d2f696d672f6f70656e5f696e5f737461636b626c69747a2e737667" alt="" data-canonical-src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" style="max-width: 100%;"></a>
-</div>
-
-## Features
-
-- 💨 [windicss](https://windicss.org/integrations/vite.html) - Next generation utility-first CSS framework
-- 🤹 [unplugin-icons](https://github.com/antfu/unplugin-icons) - Use icons from any iconsets
-- 🍍 [pinia](https://pinia.esm.dev/) - The Vue Store that you will enjoy using
-- 🌍 [vue-i18n](https://vue-i18n.intlify.dev/installation.html) - Vue I18n is internationalization plugin for Vue.js
-- 🛠️ [@vueuse/core](https://vueuse.org/) - Collection of essential Vue Composition Utilities
-
-## Use the Template
-
-### GitHub Template
-
-[create a repo from this template on GitHub](https://github.com/xiaoluoboding/vue3-starter/generate)
 
 ### Clone to local
 
